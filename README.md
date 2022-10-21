@@ -1,2 +1,2 @@
 # Accounting-Finance-Analytics
-## importing and analyzing fianncal data using python 
+## importing and analyzing financial data using python 
